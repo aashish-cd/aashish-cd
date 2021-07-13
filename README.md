@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="aashish-cd's GitHub Stats" src="https://github-readme-stats.aashish-cd.vercel.app/api?username=aashish-cd&show_icons=true&hide_border=true" />
+  <img  alt="aashish-cd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashish-cd&count_private=true" />
 
 </details>
 
