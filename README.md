@@ -5,7 +5,7 @@
 
 ## I'm Learner | reactJS | nodeJS | JavaScript Learner
 - I'm student of Computer Engineering at IOE, Purwanchal Campus, Dharan
-- I'm currently learning Javascript and its frameworks and library
+- I'm currently learning Javascript, its frameworks and libraries
 
 
 
