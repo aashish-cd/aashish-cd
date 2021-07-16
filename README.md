@@ -13,7 +13,7 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&hide=html" alt="My Usage" /></p>
-<br>
+<br> <br> <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-cd&show_icons=true" alt="My Usage" /></p>
 <br><br>
 <p align="center">
