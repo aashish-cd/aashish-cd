@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Project_cities_nepal&style=for-the-badge&url=http://react-citytour-nepal.netlify.app)](http://react-citytour-nepal.netlify.app)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-cd" alt="Aashish" /> </p>
 ## I'm Learner | reactJS | nodeJS | JavaScript Learner
 
 - I'm student of Computer Engineering at IOE, Purwanchal Campus, Dharan
