@@ -13,9 +13,7 @@
 <a href="https://react-citytour-nepal.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&theme=dark" />
 </a>
-<a href="https://github.com/aashish-cd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-cd&show_icons=true&theme=dark&line_height=20" alt="Aashish Bhatt's Github Stats"/>
-</a><br/><br/>
+<br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" /></p>
 <br/><br/>
 
