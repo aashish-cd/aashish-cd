@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" /></p>
 <br/><br/>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-cd&show_icons=true" alt="Stats" /></p>
+<img src = "https://github-readme-stats.vercel.app/api?username=aashish-cd&count_private=true&&show_icons=true&title_color=6e9a44&icon_color=bad072&text_color=00eeff&bg_color=000000">
 <br><br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aashish-cd&bg_color=0000000&color=00eeff&line=00ccff&point=ff0088&area=true&hide_border=true)
