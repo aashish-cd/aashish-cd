@@ -12,7 +12,8 @@
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" /></p>
 <br/><br/>
-[![Aashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=xcode)]
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=xcode" alt="Aashish's activity graph" /></p>
 <br>
 
 
