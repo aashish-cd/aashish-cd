@@ -13,7 +13,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" /></p>
 <br/><br/>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=dark" alt="Aashish's activity graph" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=dracula" alt="Aashish's activity graph" /></p>
 <br>
 
 
