@@ -7,7 +7,7 @@
 <br />
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&langs_count=8&theme=dark" />
 
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" /></p>
