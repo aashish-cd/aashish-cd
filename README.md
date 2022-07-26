@@ -7,9 +7,9 @@
 <br />
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&langs_count=8&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-cd&layout=compact&langs_count=8&theme=dark" alt="aashish's github stats" />
 <br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-cd&theme=dark" alt="Aashish" />
 <br/>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=xcode" alt="Kshitiz's Activity Graph" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=aashish-cd&theme=xcode" alt="Aashish's Activity Graph" />
 
