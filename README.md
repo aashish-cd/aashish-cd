@@ -1,8 +1,8 @@
 ## Hi there, I'm Aashish
 
 
-### - I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-### - I'm currently learning Javascript, its frameworks and libraries
+#### - I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
+#### - I'm currently learning Javascript, its frameworks and libraries
 
 <br />
 
